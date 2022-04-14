@@ -6,4 +6,7 @@ Some description here.
 
 Some more text here.
 
-Bye.
+## Local Development
+
+1. Open index.html in your browser.
+2. You are all set!
